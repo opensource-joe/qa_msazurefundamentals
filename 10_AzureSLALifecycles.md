@@ -14,3 +14,5 @@
 ## Azure Service Lifecycle
 - Adds and removes services on a predictable basis.
 - Azure updates lists service updates and features. There are public and private previews. Previews not completely tested. Private previews need to be for registered users to become an official tester. Not a good idea to run production services on a preview.
+- 12 months notice before ending a service.
+- All resources in a resource group should share the same lifecycle.

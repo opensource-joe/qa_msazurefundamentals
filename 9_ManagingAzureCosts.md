@@ -35,3 +35,10 @@
 - Recommendations
 
 - Three levels of management for tracking costs - Management Groups, Subscriptions, and Resource Groups.
+
+- Free subscription for 12 months. $200 credit can be applied to paid products.
+
+- Management Group - related Azure subscriptions can be placed into these.
+- Hybrid Benefit - if you have existing Windows Server or SQL Server licenses, and they’re covered by a Microsoft Software Assurance plan, you can move those licenses to Azure to save money.
+
+- Azure's three levels of management hierarchy: resource groups, management groups, and subscriptions. Not billing groups. Azure provides three levels of management that you can use to make it easier to track costs separately: management groups, subscriptions, and resource groups.

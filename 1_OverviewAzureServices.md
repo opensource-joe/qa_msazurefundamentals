@@ -46,9 +46,13 @@
 - Managing services aka Management
     1) Azure Monitor
     2) Azure Backup - can backup cloud and on-prem solutions
-    3) Azure Advisor - provides security recommendations
+    3) Azure Advisor - provides security recommendations; suggest ways to improve the performance and availability of your applications, but it will even suggest ways to reduce your costs;  personalized cloud consultant. It automatically examines all of your Azure resources and identifies ways to optimize them.
     4) MS Defender for Cloud - assesses vulnerabilities
     5) Azure Policy - create own custom policy for resources
     6) Advanced Threat Detection
     7) ARM Template - automate resource deployment
     8) Azure Blueprints - automate env deployment
+
+- Azure IoT Central is a fully managed SaaS solution that allows you to create IoT applications without writing any code.
+
+- Azure Sphere to make your IoT devices more secure. It includes certified chips, the Azure Sphere operating system, and the Azure Sphere Security Service, all of which provide layers of protection for your IoT devices.

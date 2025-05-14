@@ -10,7 +10,7 @@
 - Planned downtime - VMs grouped into update domains. Azure performs maintenance on one update domain at a time. Configure up to 20 domains.
 - Unplanned downtimes - VMs grouped in fault domains. Each default domain has a separate power source and network switch. Limits downtime caused by hardware failures. In many regions, maximum of three fault domains, but in some it's two.
 
-- For 99.95% uptime guarantee, need at least two VMs, two default domains, and two update domains. Won't protect against datacenter failures.
+- For 99.95% uptime guarantee, need at least two VMs, two default domains, and two update domains. Won't protect against datacenter failures. (31 days in a month, 22.23 minutes down)
 - Availability zones are alternative to availability sets. Physically separate zones within an Azure region. Three zones per region. Won't protect against regional outlets. 
 - Multi-region deployment - usually sufficient to back up VMs to second region. If downtime can't be tolerated, run VMs in second region all the time.
 - Regional pairs - most Azure regions are paired with another region. Some services replicate their data across regional pairs if certain options are chosen (e.g., Azure Storage with geo-redundant storage option). Store VMs in paired region. MS tries to make at least one region in each pair available.
@@ -22,3 +22,7 @@
 
         - Zonal Scale Set - default for Scale Set deployed in a single zone.
         - Regional Scale Set - ultimate deployment with max availability. VMs evenly distributed across availability zones.
+
+- Azure Service Health - where you can find out about problems with the Azure platform itself as well as upcoming maintenance events. You can even create alerts so you'll be notified of both planned and unplanned outages.
+
+- MS Defender for Cloud - The secure score indicates the general security health of your Azure resources. The more secure your environment is, the higher the percentage score will be.
