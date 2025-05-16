@@ -29,3 +29,9 @@
 
 10. Which of the following Azure services allows you to create IoT applications without writing any code?
 - Azure IoT Central
+
+11. Which Azure product provides four key features: cost analysis, budget, alerts, and recommendations?
+- Cost Management
+
+12. Related Azure subscriptions can be placed into a _____ group.
+- management
