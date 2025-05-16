@@ -23,3 +23,9 @@
 
 8. _______ allow you to define a repeatable set of governance tools and standard Azure resources that your organization requires.
 - Azure Blueprints
+
+9. The compliance dashboard for MS Defender for Cloud is connected with which of the following services to allow you to create compliance requirements for accounts and resources within you Azure account?
+- Azure Policy
+
+10. Which of the following Azure services allows you to create IoT applications without writing any code?
+- Azure IoT Central
