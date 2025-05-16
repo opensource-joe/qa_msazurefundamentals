@@ -15,7 +15,7 @@
 5. What does the secure score in MS Defender for Cloud indicate?
 - The secure score indicates the general security health of your Azure resources. The more secure your environment is, the higher the prercentage score will be.
 
-6. Which solutions or services provide security for Azure IT devices?
+6. Which solutions or services provide security for Azure IoT devices?
 - Azure Sphere
 
 7. Which Azure management service informs you about problems with the Azure platform itself and upcoming maintenance events?
